@@ -21,7 +21,7 @@ defmodule ElixirGistWeb.AllGistsLive do
       |> assign(relative_time: relative_time)
 
     ~H"""
-    <div class="border borde-white rounded-md p-4 mb-6 shadow-sm shadow-white">
+    <div class="border borde-white rounded-md p-2 mb-6 shadow-sm shadow-white">
       <div>
         <div class="flex justify-between items-center">
           <div>
